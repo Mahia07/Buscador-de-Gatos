@@ -89,7 +89,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../src/img/img.jpg');
+    background-image: url('img/img.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
@@ -171,7 +171,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../src/img/img2.jpg');
+    background-image: url('img/img2.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
@@ -227,7 +227,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../src/img/errorInternet.jpg');
+    background-image: url('img/errorInternet.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
@@ -266,7 +266,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../src/img/error500.jpg');
+    background-image: url('img/error500.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
@@ -482,4 +482,3 @@
     overflow: hidden;
   }
   
-
